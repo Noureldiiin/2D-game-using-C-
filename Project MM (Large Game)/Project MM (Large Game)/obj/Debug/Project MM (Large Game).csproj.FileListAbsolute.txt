@@ -1,0 +1,10 @@
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\bin\Debug\Project MM (Large Game).exe.config
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\bin\Debug\Project MM (Large Game).exe
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\bin\Debug\Project MM (Large Game).pdb
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project MM (Large Game).csprojAssemblyReference.cache
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project_MM__Large_Game_.Properties.Resources.resources
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project MM (Large Game).csproj.GenerateResource.cache
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project MM (Large Game).csproj.CoreCompileInputs.cache
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project MM (Large Game).exe
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project MM (Large Game).pdb
+E:\Multimedia\Project Multimedia\Project MM (Large Game)\Project MM (Large Game)\obj\Debug\Project_MM__Large_Game_.Pics.resources
